@@ -4,3 +4,4 @@
 
 #comments can be placed...
 *.txt
+!main.txt
